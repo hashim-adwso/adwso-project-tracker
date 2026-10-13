@@ -1,0 +1,18 @@
+[theme]
+base = "light"
+primaryColor = "#2E5AAC"
+backgroundColor = "#F4F6F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#18202E"
+borderColor = "#E1E6EE"
+baseRadius = "8px"
+
+[server]
+headless = true
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
